@@ -1,0 +1,2 @@
+# Padrao  Projeto Composite
+ Teste
